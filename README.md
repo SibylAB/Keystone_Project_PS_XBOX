@@ -1,7 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 >>>>>>> 56b01f7664540179871bb8eff7b661ab31488e35
+=======
+
+>>>>>>> 4395eecff605b2c11306efb1e17af848ebd248d6
 # PlayStation vs. XBOX Console Sales Data
 
 This data describes the sales performance of Playstation and Xbox consoles within the gaming industry. Historically showing strenghts in the sales between the two brand consoles within the market of technology. This data analyze the console sales of Playstation and Xbox throughout the years since its debut.
