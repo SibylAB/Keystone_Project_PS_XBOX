@@ -4,9 +4,12 @@ This data describes the sales performance of Playstation and Xbox consoles withi
 
 
 
-## Authors
+## Point of View Project
 
-- [@SibylAB](https://github.com/SibylAB/Capstone_Project_PS_XBOX)
+I wanted to do a sales on video games between two consoles. Playstaion and XBOX. I have played both of these consoles over the past decade when the first
+consoles came out. I mainly played Playstation since its the only game that I grew up on. But later down the line, I played games on the XBOX 360 during
+the lifespan before the XBOX One. It gives me insight of how both of these consoles have dominated the video game market of the past decade since its 
+debut. How games these days that players played show a significant difference of how they scale in sales worldwide.
 
 
 ## Installation
